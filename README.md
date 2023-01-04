@@ -1,4 +1,4 @@
-# CV_Lab
+UG_ComputerVision
 
 ### Lab session from UoB :card_file_box:
 > Based on MATLAB
