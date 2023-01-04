@@ -1,7 +1,7 @@
 # CV_Lab
 
 ### Lab session from UoB :card_file_box:
-> Based on MARLAB
+> Based on MATLAB
 
 ### :memo: Week01_Familiar with MATLAB
 #### Install MATLAB (for Linux)
